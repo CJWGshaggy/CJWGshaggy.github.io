@@ -1,1 +1,11 @@
+h1 {
+  font-weight: bold;
+  color: black;
+  background-color: yellow;
+  border-radius: 20px 150px 20px 150px;
+  padding: 100px 20px 100px 20px;
+}
 
+#grad {
+  background-image: linear-gradient(blue, purple, yellow);
+}
